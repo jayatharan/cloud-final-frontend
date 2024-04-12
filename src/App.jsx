@@ -26,6 +26,9 @@ function App() {
         </a>
       </div>
       <h1>Frontend Application Vite + ReactJS + AWS S3 + CloudFront</h1>
+      <p>
+        Test CICD
+      </p>
     </>
   )
 }
